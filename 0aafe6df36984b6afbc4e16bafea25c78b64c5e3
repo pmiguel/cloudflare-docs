@@ -1,0 +1,23 @@
+src/content/release-notes/api-deprecations.yaml
+  b277e46eb78b6fa1 6,9,11,29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "0aafe6df36984b6afbc4e16bafea25c78b64c5e3",
+  "prompts": {
+    "b277e46eb78b6fa1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1e43ac4a5ffe51d2mhbdAOqGzP",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 5,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
