@@ -1,0 +1,25 @@
+src/content/release-notes/api-deprecations.yaml
+  b277e46eb78b6fa1 6,9,11,29
+src/content/changelog/kv/2026-05-19-kv-legacy-namespace-routes-deprecation.mdx
+  b277e46eb78b6fa1 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "e9255e360cb43168190240e4117241af4a86bd8a",
+  "prompts": {
+    "b277e46eb78b6fa1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1e43ac4a5ffe51d2mhbdAOqGzP",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 39,
+      "total_deletions": 10,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  }
+}
