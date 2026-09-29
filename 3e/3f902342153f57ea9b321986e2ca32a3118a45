@@ -1,0 +1,23 @@
+src/content/docs/kv/concepts/kv-namespaces.mdx
+  s_2ecc42ed627fe3::t_a84ba99989d210 24
+src/content/partials/workers/wrangler-commands/kv.mdx
+  s_2ecc42ed627fe3::t_892745ea5a8774 21-22
+src/content/docs/kv/index.mdx
+  s_2ecc42ed627fe3::t_b4063757ab093f 177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3e3f902342153f57ea9b321986e2ca32a3118a45",
+  "prompts": {},
+  "sessions": {
+    "s_2ecc42ed627fe3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f2d0dc5b4ffeJWCX4trG5yetn9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Pedro Leal <pleal@cloudflare.com>"
+    }
+  }
+}
