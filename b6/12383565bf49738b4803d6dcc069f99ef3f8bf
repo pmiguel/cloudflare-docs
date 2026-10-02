@@ -1,0 +1,19 @@
+src/content/docs/kv/platform/limits.mdx
+  s_c48ad5c9a8502c::t_0b87cfbc8a0020 13-14,34-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b612383565bf49738b4803d6dcc069f99ef3f8bf",
+  "prompts": {},
+  "sessions": {
+    "s_c48ad5c9a8502c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f038903eeffeg04FeyR7mx8hw4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Pedro Leal <pleal@cloudflare.com>"
+    }
+  }
+}
